@@ -1,0 +1,12 @@
+Two Similarites:
+1. Smaller is Better
+2. Communication is Important
+
+Two Differences:
+1. Do not criticize the submitter, criticize the code - Microsoft has this but Yelp does not explicitly state something like this
+2. Introducing Emoji COde - Microsoft has this but Yelp does not
+
+Website with link of example of good code review and bad code review: 
+https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
+
+The bad code review examples are very vague and not as detailed as the good code examples. The bad code review is also much more inconsistent compared to the good code examples.
